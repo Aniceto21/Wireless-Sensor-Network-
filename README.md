@@ -22,3 +22,10 @@ Base station (PC / Mobile / Cloud dashboard)
 
 Sensor → Microcontroller → Wireless Module → Base Station → Data Display 
 
+
+| DHT11 Pin | ESP32 Pin |
+| --------- | --------- |
+| VCC       | 3.3V      |
+| DATA      | GPIO 4    |
+| GND       | GND       |
+
